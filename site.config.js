@@ -12,7 +12,7 @@ const SITE_CONFIG = {
     
     // Communication
     whatsappNumber: "919244240917", // International format without '+'
-    phoneDisplay: "+1 (800) 589-2041",
+    phoneDisplay: "+1 (331) 328-7053",
     contactEmail: "connect@virtualofficespaceusa.online",
     
     // Key Stats & Trust Badges

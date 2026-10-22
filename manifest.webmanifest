@@ -1,0 +1,29 @@
+{
+  "id": "/",
+  "name": "Virtual Office Space USA — US Address & Registered Agent",
+  "short_name": "Virtual Office USA",
+  "description": "Real US commercial street address, registered agent and same-day digital mail scanning in Wyoming, Delaware, Florida, Texas, California and New York.",
+  "lang": "en-US",
+  "dir": "ltr",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#0f172a",
+  "categories": ["business", "productivity", "finance"],
+  "icons": [
+    { "src": "/assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/assets/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "/assets/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ],
+  "screenshots": [
+    { "src": "/assets/og-image.png", "sizes": "1200x630", "type": "image/png", "form_factor": "wide", "label": "Virtual Office Space USA — plans and states" }
+  ],
+  "shortcuts": [
+    { "name": "Pricing & Plans", "short_name": "Pricing", "url": "/#pricing", "icons": [{ "src": "/assets/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Choose a US State", "short_name": "States", "url": "/#states", "icons": [{ "src": "/assets/icon-192.png", "sizes": "192x192" }] },
+    { "name": "FAQ", "short_name": "FAQ", "url": "/#faq", "icons": [{ "src": "/assets/icon-192.png", "sizes": "192x192" }] }
+  ]
+}
