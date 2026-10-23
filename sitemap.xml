@@ -3,9 +3,85 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://virtualofficespaceusa.online/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-23</lastmod>
+    <priority>1.0</priority>
     <image:image>
       <image:loc>https://virtualofficespaceusa.online/assets/og-image.png</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>https://virtualofficespaceusa.online/virtual-business-address/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://virtualofficespaceusa.online/registered-agent/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://virtualofficespaceusa.online/virtual-mailbox/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://virtualofficespaceusa.online/us-llc-for-non-residents/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://virtualofficespaceusa.online/wyoming/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://virtualofficespaceusa.online/delaware/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://virtualofficespaceusa.online/florida/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://virtualofficespaceusa.online/texas/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://virtualofficespaceusa.online/california/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://virtualofficespaceusa.online/new-york/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://virtualofficespaceusa.online/guides/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://virtualofficespaceusa.online/guides/what-is-a-registered-agent/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://virtualofficespaceusa.online/guides/usps-form-1583/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://virtualofficespaceusa.online/guides/how-to-get-an-ein-for-an-llc/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://virtualofficespaceusa.online/guides/wyoming-vs-delaware-llc/</loc>
+    <lastmod>2026-10-23</lastmod>
+    <priority>0.7</priority>
   </url>
 </urlset>
