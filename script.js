@@ -88,6 +88,16 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
+  // Open the FAQ answer targeted by a #faq-... link (footer / search deep links)
+  const openFaqFromHash = () => {
+    const item = location.hash && document.getElementById(location.hash.slice(1));
+    if (item && item.classList.contains("faq-item")) {
+      const btn = item.querySelector(".faq-question");
+      if (btn && btn.getAttribute("aria-expanded") !== "true") btn.click();
+    }
+  };
+  window.addEventListener("hashchange", openFaqFromHash);
+
   // FAQ Accordion
   document.querySelectorAll(".faq-question").forEach(qBtn => {
     qBtn.addEventListener("click", () => {
@@ -97,11 +107,15 @@ document.addEventListener("DOMContentLoaded", () => {
       // Close others
       document.querySelectorAll(".faq-answer").forEach(ans => ans.style.display = "none");
       document.querySelectorAll(".faq-question span.arrow").forEach(arr => arr.textContent = "+");
+      document.querySelectorAll(".faq-question").forEach(b => b.setAttribute("aria-expanded", "false"));
 
       if (!isOpen) {
         answer.style.display = "block";
         qBtn.querySelector("span.arrow").textContent = "−";
+        qBtn.setAttribute("aria-expanded", "true");
       }
     });
   });
+
+  openFaqFromHash();
 });
