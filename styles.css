@@ -618,13 +618,13 @@ footer a:hover {
   margin-bottom: 40px;
 }
 
-.footer-brand h4 {
+.footer-brand .footer-title {
   color: white;
   font-size: 1.25rem;
   margin-bottom: 12px;
 }
 
-.footer-col h5 {
+.footer-col .footer-title {
   color: white;
   font-size: 0.95rem;
   font-weight: 700;
@@ -658,3 +658,10 @@ footer a:hover {
     gap: 30px;
   }
 }
+
+/* On-page semantic markup: keep visual style unchanged */
+dfn { font-style: normal; }
+.footer-title { font-weight: 700; }
+abbr[title] { text-decoration: none; cursor: help; }
+.state-card, .card, .pricing-card { scroll-margin-top: 88px; }
+.faq-item, [id^="term-"] { scroll-margin-top: 88px; }
