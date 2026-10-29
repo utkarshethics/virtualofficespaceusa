@@ -3,7 +3,63 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://virtualofficespaceusa.online/</loc>
-    <lastmod>2026-10-22</lastmod>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://virtualofficespaceusa.online/assets/og-image.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://virtualofficespaceusa.online/wyoming/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://virtualofficespaceusa.online/assets/og-image.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://virtualofficespaceusa.online/delaware/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://virtualofficespaceusa.online/assets/og-image.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://virtualofficespaceusa.online/florida/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://virtualofficespaceusa.online/assets/og-image.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://virtualofficespaceusa.online/texas/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://virtualofficespaceusa.online/assets/og-image.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://virtualofficespaceusa.online/california/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://virtualofficespaceusa.online/assets/og-image.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://virtualofficespaceusa.online/new-york/</loc>
+    <lastmod>2026-10-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
     <image:image>
       <image:loc>https://virtualofficespaceusa.online/assets/og-image.png</image:loc>
     </image:image>
