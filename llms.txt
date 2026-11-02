@@ -80,6 +80,13 @@ Fintech business banks like Mercury and Relay cross-reference addresses against 
 - **Indic & Hinglish (Hindi)**:
   - "USA me company kaise register kare / US LLC formation for Indian founders": Non-resident Delaware/Wyoming LLC registration and Mercury bank account for Indian startups and SaaS companies.
 
+## Amazon & Marketplace Seller Search Intent Support
+- "Virtual office for Amazon seller" / "Amazon FBA commercial business address": 100% verified street address with unique suite number accepted by Amazon Seller Central KYC.
+- "Amazon address verification postcard": Same-day envelope and physical OTP verification postcard scanning.
+- "Amazon INFORM Consumers Act address compliance": Verified commercial address for public seller profile to protect personal home address privacy.
+- "US LLC for Amazon & Walmart sellers": Non-resident Wyoming, Florida, or Delaware LLC formation, IRS EIN tax ID, and Mercury Bank account setup for global marketplace expansion.
+- "Amazon Brand Registry trademark lawyer": USPTO attorney filing to qualify for Amazon Brand Registry and prevent counterfeits.
+
 ## Key URLs & Verification Endpoints
 - Canonical Domain: https://virtualofficespaceusa.online/
 - State Hubs:

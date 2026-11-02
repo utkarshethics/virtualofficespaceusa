@@ -144,6 +144,13 @@ const SITE_CONFIG = {
       icon: "🛡️",
       desc: "Custom attorney-vetted website Terms of Service and CCPA, CalOPPA, GDPR & FTC compliant Privacy Policies tailored for your ecommerce store, app, or SaaS business.",
       intent: "Inquiry: Terms of Service & Privacy Policy"
+    },
+    {
+      id: "amazon-seller-address",
+      title: "Amazon & Walmart Seller Address Hub",
+      icon: "📦",
+      desc: "Real commercial street address pre-approved for Amazon US Seller Central, Amazon FBA postcard verification, INFORM Consumers Act compliance, and Walmart Marketplace.",
+      intent: "Inquiry: Amazon & Walmart Seller Address"
     }
   ],
 
@@ -275,6 +282,18 @@ const SITE_CONFIG = {
     {
       q: "كيف يمكن لغير المقيمين تأسيس شركة أمريكية (LLC) وفتح حساب بنكي تجاري في Mercury Bank عن بُعد؟",
       a: "يمكن لرواد الأعمال من أي دولة عربية تأسيس شركة أمريكية LLC رسمياً دون الحاجة للسفر إلى أمريكا أو امتلاك رقم ضمان اجتماعي (SSN): 1) اختيار الولاية المناسبة (وايومنغ لصفر ضرائب دخل شخصية والخصوصية، أو ديلاوير لجذب المستثمرين)؛ 2) الحصول على عنوان تجاري أمريكي معتمد ووكيلاً مسجلاً؛ 3) تقديم وثائق التأسيس (Articles of Organization)؛ 4) استخراج الرقم الضريبي الفيدرالي EIN من مصلحة الضرائب الأمريكية؛ 5) فتح حساب بنكي تجاري في Mercury Bank أو Relay Financial باستخدام جواز السفر وأوراق الشركة."
+    },
+    {
+      q: "Can I use a US virtual office address for my Amazon US Seller Central account and FBA?",
+      a: "Yes. Amazon Seller Central requires a verifiable physical business address and explicitly rejects standard P.O. Boxes and flagged retail mailbox stores. We provide real commercial street office addresses with dedicated suite numbers in Wyoming, Delaware, Florida, Texas, California, and New York. When Amazon sends its physical address verification postcard containing a secret OTP code, our digital mailroom scans the postcard and uploads it to your dashboard the same day, allowing you to pass address verification seamlessly."
+    },
+    {
+      q: "How does this address satisfy the Amazon INFORM Consumers Act requirements?",
+      a: "The US INFORM Consumers Act requires high-volume online marketplace sellers (on Amazon, Walmart, eBay) to verify and disclose a physical business address. Using our verified commercial street address and corporate lease documents satisfies Amazon's strict compliance checks while legally protecting your personal residential address from public exposure."
+    },
+    {
+      q: "Can non-US resident founders sell on Amazon US and Walmart Marketplace?",
+      a: "Yes. Non-US residents can form a Wyoming or Delaware LLC, obtain an IRS Federal EIN, secure our commercial street address proof, and open a US business bank account at Mercury Bank or Relay Financial. This setup allows international founders to sell on Amazon.com, collect payouts in USD, and qualify for Amazon Brand Registry via USPTO trademark filing."
     }
   ]
 };
