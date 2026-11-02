@@ -766,5 +766,13 @@ abbr[title] { text-decoration: none; cursor: help; }
 }
 .lang-card {
   border-top: 3px solid var(--accent);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.lang-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
 }
 

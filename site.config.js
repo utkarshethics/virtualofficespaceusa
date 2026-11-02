@@ -255,6 +255,26 @@ const SITE_CONFIG = {
     {
       q: "Indian founders ke liye US LLC registration aur Mercury bank account kaise setup karein?",
       a: "Indian tech founders and e-commerce sellers can establish a 100% compliant US LLC in Wyoming or Delaware without travel or US SSN. We provide commercial street address documentation, official registered agent representation, Articles of Organization filing, IRS Federal EIN acquisition, and bank-ready address proof for remote Mercury Bank, Relay, and Stripe onboarding."
+    },
+    {
+      q: "Comment créer une LLC aux États-Unis en tant que non-résident et ouvrir un compte bancaire Mercury ?",
+      a: "La création d'une LLC américaine pour les non-résidents s'effectue 100% en ligne sans déplacement physique ni numéro de sécurité sociale américain (SSN) : 1) Choisissez l'État idéal (le Wyoming pour 0% d'impôt d'État et l'anonymat, le Delaware pour lever des fonds, ou la Floride pour le commerce) ; 2) Obtenez une adresse commerciale physique avec Agent Agréé (Registered Agent) ; 3) Déposez les Statuts constitutifs (Articles of Organization) ; 4) Obtenez l'EIN fédéral auprès de l'IRS ; 5) Ouvrez votre compte bancaire d'entreprise chez Mercury Bank ou Relay Financial avec votre passeport."
+    },
+    {
+      q: "Wie kann man als deutscher oder europäischer Staatsbürger eine US LLC gründen und ein US-Bankkonto eröffnen?",
+      a: "Als Nicht-US-Bürger können Sie eine US LLC vollständig digital ohne Reise in die USA gründen: 1) Bundesstaat wählen (Wyoming für 0% State Tax und maximalen Datenschutz, Delaware für Investoren); 2) Echte gewerbliche US-Adresse mit Registered Agent buchen; 3) Articles of Organization einreichen; 4) Bundessteuernummer (EIN) beim IRS beantragen; 5) Geschäftskonto bei Mercury Bank oder Relay eröffnen. Es ist keine US-Sozialversicherungsnummer (SSN) erforderlich."
+    },
+    {
+      q: "非美国居民如何远程注册美国公司 (LLC) 并开设 Mercury 商业银行账户？",
+      a: "非美国居民完全可以在中国或其他国家远程注册美国公司，无需持有美国签证或社保号 (SSN)：1) 选择注册州（怀俄明州享受0州所得税与高度隐私，特拉华州适合风投融资）；2) 办理真实美国商业实体地址及法定注册代理人 (Registered Agent)；3) 提交组织章程 (Articles of Organization) 并起草运营协议；4) 向国税局 IRS 申请联邦税号 EIN；5) 使用护照和公司全套法律文件远程申请并开通 Mercury Bank、Relay 商业银行账户及 Stripe 支付网关。"
+    },
+    {
+      q: "Türkiye'de yaşarken Amerika'da LLC şirket nasıl kurulur ve Mercury Bank hesabı nasıl açılır?",
+      a: "Türkiye'de ikamet eden Türk girişimciler Amerika'ya gitmeden, vizeye veya SSN'e (Sosyal Güvenlik Numarası) ihtiyaç duymadan %100 uzaktan LLC şirket açabilir: 1) Eyalet seçimi yapılır (Vergisiz ve gizlilik için Wyoming, yatırımcılar için Delaware); 2) Fiziki ticari iş adresi ve Registered Agent temin edilir; 3) Eyalet Sekreterliğine Articles of Organization dosyalanır; 4) IRS'ten şirket EIN vergi numarası alınır; 5) Türk pasaportunuz ve onaylı kira sözleşmenizle Mercury Bank veya Relay üzerinden ticari banka hesabı açılarak Stripe entegrasyonu tamamlanır."
+    },
+    {
+      q: "كيف يمكن لغير المقيمين تأسيس شركة أمريكية (LLC) وفتح حساب بنكي تجاري في Mercury Bank عن بُعد؟",
+      a: "يمكن لرواد الأعمال من أي دولة عربية تأسيس شركة أمريكية LLC رسمياً دون الحاجة للسفر إلى أمريكا أو امتلاك رقم ضمان اجتماعي (SSN): 1) اختيار الولاية المناسبة (وايومنغ لصفر ضرائب دخل شخصية والخصوصية، أو ديلاوير لجذب المستثمرين)؛ 2) الحصول على عنوان تجاري أمريكي معتمد ووكيلاً مسجلاً؛ 3) تقديم وثائق التأسيس (Articles of Organization)؛ 4) استخراج الرقم الضريبي الفيدرالي EIN من مصلحة الضرائب الأمريكية؛ 5) فتح حساب بنكي تجاري في Mercury Bank أو Relay Financial باستخدام جواز السفر وأوراق الشركة."
     }
   ]
 };
