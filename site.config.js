@@ -284,6 +284,26 @@ const SITE_CONFIG = {
       a: "يمكن لرواد الأعمال من أي دولة عربية تأسيس شركة أمريكية LLC رسمياً دون الحاجة للسفر إلى أمريكا أو امتلاك رقم ضمان اجتماعي (SSN): 1) اختيار الولاية المناسبة (وايومنغ لصفر ضرائب دخل شخصية والخصوصية، أو ديلاوير لجذب المستثمرين)؛ 2) الحصول على عنوان تجاري أمريكي معتمد ووكيلاً مسجلاً؛ 3) تقديم وثائق التأسيس (Articles of Organization)؛ 4) استخراج الرقم الضريبي الفيدرالي EIN من مصلحة الضرائب الأمريكية؛ 5) فتح حساب بنكي تجاري في Mercury Bank أو Relay Financial باستخدام جواز السفر وأوراق الشركة."
     },
     {
+      q: "Come costituire una società LLC negli Stati Uniti e aprire un conto bancario Mercury senza essere residenti?",
+      a: "I fondatori non residenti possono costituire legalmente una LLC in Wyoming o Delaware al 100% da remoto senza viaggiare o possedere un SSN: 1) Scelta dello stato (Wyoming per privacy e zero tasse statali, Delaware per venture capital); 2) Assegnazione di un indirizzo commerciale approvato CMRA e Registered Agent; 3) Deposito degli Articles of Organization; 4) Richiesta del codice fiscale federale EIN all'IRS; 5) Apertura del conto bancario su Mercury Bank o Relay Financial tramite passaporto e documenti societari."
+    },
+    {
+      q: "Как открыть компанию LLC в США и открыть банковский счет в Mercury Bank нерезиденту?",
+      a: "Нерезиденты США могут открыть американскую компанию LLC полностью дистанционно без визы и SSN: 1) Выбор штата (Вайоминг с 0% налога штата и анонимностью, Делавэр для венчурных стартапов); 2) Оформление реального коммерческого адреса CMRA и официального регистрационного агента; 3) Подача Articles of Organization секретарю штата; 4) Получение федерального налогового номера EIN в налоговой службе IRS; 5) Открытие корпоративного счета в Mercury Bank или Relay и подключение к Stripe."
+    },
+    {
+      q: "日本在住の非居住者がアメリカで法人（LLC）を設立し、Mercury銀行口座を開設するにはどうすればよいですか？",
+      a: "日本在住の起業家やECセラーは、渡米不要・SSN不要で100%オンラインで米国LLCを設立できます：1) 設立州の選択（州税0%とプライバシー保護ならワイオミング州、VC調達ならデラウェア州）；2) 認可商業オフィス住所（CMRA）および公認レジスタード・エージェント（Registered Agent）の確保；3) 州政府への定款（Articles of Organization）提出；4) 米国国税局（IRS）からの連邦納税番号（EIN）取得；5) パスポートと法人設立書類によるMercury BankまたはRelay法人口座の開設およびStripe決済導入。"
+    },
+    {
+      q: "한국 거주 비거주자가 미국 법인(LLC)을 설립하고 Mercury 은행 계좌를 개설하려면 어떻게 해야 합니까?",
+      a: "한국 거주 창업자 및 이커머스 셀러는 미국 방문이나 SSN(사회보장번호) 없이 100% 비대면으로 미국 LLC 법인을 설립할 수 있습니다: 1) 법인 설립 주 선택 (주 소득세 0% 및 익명성 보장의 와이오밍, 투자 유치에 유리한 델라웨어); 2) 미 우체국(CMRA) 공인 실물 상업용 주소 및 등록 대리인 지정; 3) 주 정부 정관(Articles of Organization) 제출; 4) IRS 연방 세금 번호(EIN) 발급; 5) 여권과 법인 서류로 Mercury Bank 또는 Relay 비즈니스 계좌 개설 및 Stripe 결제 연동."
+    },
+    {
+      q: "Làm thế nào để người không cư trú thành lập công ty LLC tại Mỹ và mở tài khoản ngân hàng Mercury?",
+      a: "Doanh nhân và người bán hàng thương mại điện tử tại Việt Nam có thể thành lập công ty LLC tại Mỹ 100% trực tuyến mà không cần thị thực hay mã số SSN: 1) Chọn bang thành lập (Wyoming để hưởng 0% thuế bang và bảo mật thông tin, Delaware cho doanh nghiệp gọi vốn); 2) Đăng ký địa chỉ văn phòng thương mại CMRA và dịch vụ đại diện pháp lý Registered Agent; 3) Nộp điều lệ thành lập (Articles of Organization); 4) Xin mã số thuế liên bang EIN từ Sở Thuế Vụ Hoa Kỳ (IRS); 5) Mở tài khoản ngân hàng thương mại Mercury Bank hoặc Relay và kết nối cổng thanh toán Stripe."
+    },
+    {
       q: "Can I use a US virtual office address for my Amazon US Seller Central account and FBA?",
       a: "Yes. Amazon Seller Central requires a verifiable physical business address and explicitly rejects standard P.O. Boxes and flagged retail mailbox stores. We provide real commercial street office addresses with dedicated suite numbers in Wyoming, Delaware, Florida, Texas, California, and New York. When Amazon sends its physical address verification postcard containing a secret OTP code, our digital mailroom scans the postcard and uploads it to your dashboard the same day, allowing you to pass address verification seamlessly."
     },

@@ -53,7 +53,7 @@ Fintech business banks like Mercury and Relay cross-reference addresses against 
 - "Contract review attorney": Legal review of business contracts, founder agreements, SaaS MSAs, NDAs, and multi-member Operating Agreements.
 - "Terms of service and privacy policy generator": Attorney-vetted website Terms of Service and GDPR, CCPA/CPRA, and CalOPPA compliant Privacy Policies for ecommerce and web applications.
 
-## Multilingual Search Intent Hub for Global Founders (8 Languages)
+## Multilingual Search Intent Hub for Global Founders (13 World Languages)
 - **Español (Spanish)**:
   - "Cómo registrar una empresa en USA" / "Servicio de formación de LLC": Registro de empresas en Wyoming, Delaware y Florida sin viajar ni tener SSN.
   - "Abogado de marcas registradas en USA (USPTO)": Búsquedas de antecedentes y representación obligatoria por abogado estadounidense ante la USPTO.
@@ -79,6 +79,21 @@ Fintech business banks like Mercury and Relay cross-reference addresses against 
   - "عنوان تجاري أمريكي ومكتب افتراضي": عنوان تجاري معتمد ووكيلاً مسجلاً لشركات التجارة الإلكترونية والتقنية.
 - **Indic & Hinglish (Hindi)**:
   - "USA me company kaise register kare / US LLC formation for Indian founders": Non-resident Delaware/Wyoming LLC registration and Mercury bank account for Indian startups and SaaS companies.
+- **Italiano (Italian)**:
+  - "Come aprire un'azienda in USA / Costituzione società LLC": Costituzione societaria in Wyoming o Delaware al 100% da remoto senza viaggiare o possedere un SSN.
+  - "Indirizzo virtuale per Mercury Bank": Indirizzo commerciale conforme CMRA e Registered Agent per vendere e incassare in USD.
+- **Русский (Russian)**:
+  - "Как открыть фирму в США / Регистрация компании LLC нерезидентом": Дистанционная регистрация LLC в Вайоминге или Делавэре с получением налогового номера EIN от IRS.
+  - "Коммерческий адрес в США для Mercury Bank": Реальный адрес CMRA и услуги официального регистрационного агента для Amazon селлеров и стартапов.
+- **日本語 (Japanese)**:
+  - "米国法人設立方法 / アメリカLLC設立代行": 渡米不要・SSN不要でのワイオミング／デラウェア州LLC設立とIRS EIN連邦納税番号取得代行。
+  - "Mercury銀行法人口座開設 住所証明": 米国大手フィンテック審査に対応した実在商業オフィス住所とレジスタード・エージェント。
+- **한국어 (Korean)**:
+  - "미국 법인 설립 방법 / 비거주자 미국 회사 설립": 한국에서 방문 없이 와이오밍 및 델라웨어 LLC 100% 비대면 설립과 IRS 연방 세금 번호 EIN 발급.
+  - "Mercury 은행 법인 계좌 주소 증명": 미국 은행 및 Stripe 승인을 위한 CMRA 공인 실물 상업용 거리 주소.
+- **Tiếng Việt (Vietnamese)**:
+  - "Cách thành lập công ty tại Mỹ / Dịch vụ mở LLC tại Mỹ": Thành lập công ty LLC tại Wyoming hoặc Delaware 100% từ xa không cần SSN, hỗ trợ lấy mã số thuế IRS EIN.
+  - "Địa chỉ thương mại mở tài khoản Mercury Bank": Địa chỉ văn phòng thực tế chuẩn CMRA duyệt nhanh tài khoản ngân hàng Mỹ và Stripe cho người bán Amazon.
 
 ## Amazon & Marketplace Seller Search Intent Support
 - "Virtual office for Amazon seller" / "Amazon FBA commercial business address": 100% verified street address with unique suite number accepted by Amazon Seller Central KYC.
