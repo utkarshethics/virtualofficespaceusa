@@ -239,6 +239,22 @@ const SITE_CONFIG = {
     {
       q: "Why shouldn't I just use a generic free terms of service and privacy policy generator?",
       a: "Generic online policy generators often omit critical updates required by the California CPRA/CCPA, European GDPR, and major payment processors like Stripe and Mercury Bank. Inadequate terms can trigger merchant account suspensions or regulatory penalties. We provide attorney-vetted Terms of Service and Privacy Policies customized to your specific entity operations."
+    },
+    {
+      q: "¿Cómo registrar una empresa en Estados Unidos o formar una LLC siendo extranjero no residente?",
+      a: "Para registrar una empresa en EE. UU. siendo extranjero (de México, Colombia, España, Argentina, etc.), el proceso se realiza 100% en línea sin necesidad de viajar ni de tener número de seguro social (SSN): 1) Elige el estado idóneo (Wyoming para 0% impuestos estatales y privacidad, Delaware para inversionistas, o Florida para comercio internacional); 2) Obtén una dirección comercial real en EE. UU. y agente registrado; 3) Presenta los Artículos de Organización ante la Secretaría de Estado; 4) Obtén el EIN federal del IRS mediante Formulario SS-4; 5) Abre tu cuenta bancaria comercial en Mercury Bank o Relay Financial con tu pasaporte y documentos corporativos."
+    },
+    {
+      q: "¿Se necesita un abogado en EE. UU. para registrar una marca comercial en la USPTO?",
+      a: "Sí. La Oficina de Patentes y Marcas de Estados Unidos (USPTO) exige por ley federal que todos los solicitantes domiciliados fuera de EE. UU. estén representados por un abogado estadounidense con licencia activa. Un abogado especialista realiza búsquedas de antecedentes fonéticos y directos, selecciona las clases Nice correctas y responde a acciones oficiales (Office Actions) para asegurar el registro definitivo de tu marca y logotipo."
+    },
+    {
+      q: "Como abrir uma empresa nos EUA (LLC) e abrir conta bancária no Mercury Bank sendo residente no Brasil?",
+      a: "Empreendedores do Brasil podem abrir uma LLC nos Estados Unidos sem visto americano e sem SSN. Nosso serviço fornece o endereço comercial físico em Wyoming, Delaware ou Flórida com agente registrado oficial, protocolo do contrato social (Articles of Organization e Operating Agreement) e emissão do EIN federal junto ao IRS. Com esses documentos oficiais e seu passaporte brasileiro, auxiliamos na aprovação remota da conta bancária empresarial no Mercury Bank ou Relay Financial e integração com a Stripe."
+    },
+    {
+      q: "Indian founders ke liye US LLC registration aur Mercury bank account kaise setup karein?",
+      a: "Indian tech founders and e-commerce sellers can establish a 100% compliant US LLC in Wyoming or Delaware without travel or US SSN. We provide commercial street address documentation, official registered agent representation, Articles of Organization filing, IRS Federal EIN acquisition, and bank-ready address proof for remote Mercury Bank, Relay, and Stripe onboarding."
     }
   ]
 };
