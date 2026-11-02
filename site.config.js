@@ -116,6 +116,34 @@ const SITE_CONFIG = {
       icon: "📱",
       desc: "Dedicated US phone number with SMS verification, call forwarding, and custom voicemail greeting to maintain a 100% professional US presence.",
       intent: "Inquiry: US Business Phone Number"
+    },
+    {
+      id: "llc-formation-service",
+      title: "Company Registration & LLC Formation",
+      icon: "🏛️",
+      desc: "How to register a company in Wyoming, Delaware, Florida, Texas, California or New York. Full LLC formation service with Articles of Organization, Operating Agreement, and IRS Federal EIN.",
+      intent: "Inquiry: LLC Formation Service"
+    },
+    {
+      id: "trademark-registration-lawyer",
+      title: "Trademark Registration Lawyer & IP",
+      icon: "™️",
+      desc: "USPTO conflict clearance searches and attorney-filed federal trademark applications across all classes to legally protect your brand name, logo, and intellectual property.",
+      intent: "Inquiry: Trademark Registration Lawyer"
+    },
+    {
+      id: "contract-review-attorney",
+      title: "Contract Review Attorney",
+      icon: "⚖️",
+      desc: "Line-by-line legal review and drafting of founder agreements, multi-member Operating Agreements, SaaS vendor contracts, and NDAs to eliminate commercial risk.",
+      intent: "Inquiry: Contract Review Attorney"
+    },
+    {
+      id: "terms-privacy-generator",
+      title: "Terms of Service & Privacy Policy Generator",
+      icon: "🛡️",
+      desc: "Custom attorney-vetted website Terms of Service and CCPA, CalOPPA, GDPR & FTC compliant Privacy Policies tailored for your ecommerce store, app, or SaaS business.",
+      intent: "Inquiry: Terms of Service & Privacy Policy"
     }
   ],
 
@@ -195,6 +223,22 @@ const SITE_CONFIG = {
     {
       q: "What is a Registered Agent and do I need one?",
       a: "A Registered Agent is legally required by every US state to accept official government notices, franchise tax forms, and legal service of process during business hours. Our Business Pro plan includes full Registered Agent service."
+    },
+    {
+      q: "How to register a company or choose an LLC formation service in the US?",
+      a: "To register a US company, select a top business state (such as Wyoming for maximum privacy and 0% tax, or Delaware for venture capital), appoint a licensed Registered Agent, file Articles of Organization with the Secretary of State, adopt an Operating Agreement, and secure an IRS Federal EIN. Our Global Founder Suite provides complete end-to-end LLC formation assistance for US and non-resident entrepreneurs without needing an SSN."
+    },
+    {
+      q: "Do I need a trademark registration lawyer to register my brand name in the US?",
+      a: "Yes. The USPTO mandates that all foreign-domiciled applicants be represented by a US-licensed attorney. Even for US residents, working with a trademark registration lawyer ensures comprehensive USPTO clearance searches, proper class identification, and prompt office action handling, minimizing the high rejection rate of self-filings."
+    },
+    {
+      q: "When should small business owners hire a contract review attorney?",
+      a: "Small business owners and founders should consult a contract review attorney before signing high-stakes commercial agreements, such as multi-member Operating Agreements, client Master Services Agreements (MSAs), vendor contracts, and IP assignments. An attorney spots hidden indemnities, termination clauses, and liability traps before they cause expensive disputes."
+    },
+    {
+      q: "Why shouldn't I just use a generic free terms of service and privacy policy generator?",
+      a: "Generic online policy generators often omit critical updates required by the California CPRA/CCPA, European GDPR, and major payment processors like Stripe and Mercury Bank. Inadequate terms can trigger merchant account suspensions or regulatory penalties. We provide attorney-vetted Terms of Service and Privacy Policies customized to your specific entity operations."
     }
   ]
 };
